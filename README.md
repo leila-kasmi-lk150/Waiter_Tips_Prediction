@@ -3,7 +3,7 @@
 ## Overview
 
 The goal is to predict the amount of tips a waiter receives based on various factors such as the total bill, time of day, and other features.
-The model used is .
+The model used is Linear Regression.
 
 ## Dataset
 
